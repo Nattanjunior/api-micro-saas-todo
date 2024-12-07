@@ -1,0 +1,18 @@
+{
+  "name": "api-micro-saas-todo",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prisma": "^6.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.2",
+    "i": "^0.3.7",
+    "npm": "^10.9.2"
+  }
+}
